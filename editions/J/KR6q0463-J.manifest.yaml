@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0463_000-J.yaml, hash: 'sha256:a3d9e054624c1e31298e2c08f428f2ef120acaf86c83eda02154fcf47282d5a6'}
+  - {seq: 0, filename: KR6q0463_000-J.yaml, hash: 'sha256:5c425dfa795692e17b0b02cf38d36f7956aae2c5880951b9332f842154585889'}
   - {seq: 1, filename: KR6q0463_001-J.yaml, hash: 'sha256:21217c7a7323a38edbcceaab9f4ed920e51f1057626d35a5765113b243c8c766'}
   - {seq: 2, filename: KR6q0463_002-J.yaml, hash: 'sha256:80b71b7c7c5995d71c1bb97922480bda05bd4e0b6f99f2882faaededb86dcb4e'}
   - {seq: 3, filename: KR6q0463_003-J.yaml, hash: 'sha256:0047659a830947c784d84ec808544d0b9fb94f3aa48dd3bcc59cc3d5ef97c7cf'}
@@ -36,7 +36,7 @@ assets:
   - {seq: 14, filename: KR6q0463_014-J.yaml, hash: 'sha256:efaa628fd24e4cab47a71c7fcb7ece71aedf3dc079b643c8b3bb527783407601'}
   - {seq: 15, filename: KR6q0463_015-J.yaml, hash: 'sha256:2ab66290e94633260becf2dfcb4c6b99f39e947961bec6a6867fe6a56699b5e0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0463_000-J.markers.yaml, hash: 'sha256:a7af61ae73bea5ebbec23cfd6e56c053a249e1e26439c7817b73d8de7bf10b27'}
+  - {seq: 0, role: markers, filename: assets/KR6q0463_000-J.markers.yaml, hash: 'sha256:775b5ca5cd7657ff920acb59a1945a0c746a5f8379d845bfffc48be17beefd24'}
   - {seq: 1, role: markers, filename: assets/KR6q0463_001-J.markers.yaml, hash: 'sha256:d0a7a8e81d40b8817fd8640fde7f751b631fcf9b139e76aa68949c20cc8c0fa2'}
   - {seq: 2, role: markers, filename: assets/KR6q0463_002-J.markers.yaml, hash: 'sha256:20b954efe2835b27d46ab8a19de4fa0b840aba4802a5da0419eac9d59d5db454'}
   - {seq: 3, role: markers, filename: assets/KR6q0463_003-J.markers.yaml, hash: 'sha256:85a7beb9ae2c28df082c7f7354681e2900c59da05a6ce281f54c7f3b7531a95f'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0463_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0463_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 王光承序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0463_J_000-mulu-3
     span:
-    - front
+    - body
     - 580
     - 580
   label: 原序
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0463_J_000-mulu-4
     span:
-    - front
+    - body
     - 589
     - 589
   label: 弘覺忞序
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0463_J_000-mulu-5
     span:
-    - front
+    - body
     - 1254
     - 1254
   label: 目錄
@@ -1833,4 +1833,4 @@ table_of_contents:
   label: 神鼎雲外澤禪師傳
   type: mulu
   level: 1
-hash: sha256:0d02dae1b9f51c3ff3159082f2cfadb9f12e370d0431d70b6937e2ab40ff273f
+hash: sha256:33c2229493f662b090b4acbcb00d9efc86dc66f310ca1a73f34f456a1abb7d18
